@@ -14,9 +14,10 @@ These are the steps for you to run and use the app properly.
 
 ### Step 1 - Create .env file
 Create .env file in the project root directory and add `PIXABAY` and `PIXABAY_API_KEY` values.
-
-`PIXABAY=https://pixabay.com/api/`
-`PIXABAY_API_KEY=your_pixabay_api_key`
+````
+PIXABAY=https://pixabay.com/api/
+PIXABAY_API_KEY=your_pixabay_api_key
+````
 
 ### Step 2 - Install the dependencies
 Run `npm install`
