@@ -5,8 +5,8 @@ Just a simple app to search and view images from pixabay using Pixabay API.
 ![](https://i.ibb.co/ZdLKy8X/Untitled-design.png)
 
 
-Video Demo: [Pixabay App Video](https://drive.google.com/file/d/1Wm7Kd7uRhEIdOgzeGxpW_wVK84YcIqNX/view?usp=sharing)
-
+Video Demo: [Pixabay App Video](https://drive.google.com/file/d/1Wm7Kd7uRhEIdOgzeGxpW_wVK84YcIqNX/view?usp=sharing)  
+Video Demo: [Pixabay App Video - Youtube](https://youtu.be/43ZA4bn0VYs)
 
 # Setup
 
